@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arip rahman/AndroidStudioProjects/AplikasiSQLlite2/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/Arip rahman/AndroidStudioProjects/AplikasiSQLlite2/app/src/main/res/layout/activity_add_edit.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/Arip rahman/AndroidStudioProjects/AplikasiSQLlite2/app/src/main/res/layout/activity_main.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/Arip rahman/AndroidStudioProjects/AplikasiSQLlite2/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/Users/Arip rahman/AndroidStudioProjects/AplikasiSQLlite2/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Arip rahman/AndroidStudioProjects/AplikasiSQLlite2/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Arip rahman/AndroidStudioProjects/AplikasiSQLlite2/app/src/main/res/layout/list_row.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/Arip rahman/AndroidStudioProjects/AplikasiSQLlite2/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
